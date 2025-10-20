@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Hello, i'm Chuk
+I'm a student studying software engineering!👋
+## Current focus
+- Learning github
+- studying at tunxis and transferring to CCSU
 <!--
 **chukbusi/chukbusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
